@@ -1,0 +1,20 @@
+{
+	"name": "Shoots",
+  "short_name": "Shoots",
+  "background_color": "#7A48FF",
+  "theme_color": "#7A48FF",
+  "lang": "nl-NL",
+  "description": "The best drinking game to play with your family and friends.",
+	"icons": [{
+		"src": "/android-chrome-192x192.png",
+		"sizes": "192x192",
+		"type": "image/png"
+	}, {
+		"src": "/android-chrome-512x512.png",
+		"sizes": "512x512",
+		"type": "image/png"
+	}],
+	"orientation": "portrait",
+  "start_url": "/",
+  "display": "standalone"
+}
